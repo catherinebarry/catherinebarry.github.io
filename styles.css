@@ -28,6 +28,6 @@ a{
     color: white;
 }
 
-.assignment a:hover {
+.assignment h2:hover {
     color: navy;
 }
